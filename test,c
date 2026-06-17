@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()
+{
+    printf("enter 5 numbers : \n");
+    for
+    {
+    scanf("%d",&a[i]);
+    }
+}
